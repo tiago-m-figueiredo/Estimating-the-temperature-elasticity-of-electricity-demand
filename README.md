@@ -1,4 +1,4 @@
-How to push update to remote repository:
-git add .
-git commit -m "mensagem do commit"
-git push
+Public repository of the master thesis on Estimating the temperature elasticity of electricity demand.
+You need to download all files to run the .r code
+You need to also change your directory when running the code
+Thank you!
